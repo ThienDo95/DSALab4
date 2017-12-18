@@ -1,0 +1,373 @@
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+List is empty
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Pikachu
+Enter position to insert item in:
+0
+Item Pikachu inserted in position 0 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+Your list has: 1 item(s)
+Pikachu 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Bulbasaur
+Enter position to insert item in:
+0
+Item Bulbasaur inserted in position 0 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+Your list has: 2 item(s)
+Bulbasaur Pikachu 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Charizard
+Enter position to insert item in:
+4
+Input of position is out of bound
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+Your list has: 2 item(s)
+Bulbasaur Pikachu 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Charizard
+Enter position to insert item in:
+2
+Item Charizard inserted in position 2 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Mew
+Enter position to insert item in:
+1
+Item Mew inserted in position 1 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Abra
+Enter position to insert item in:
+3
+Item Abra inserted in position 3 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+Your list has: 5 item(s)
+Bulbasaur Mew Pikachu Abra Charizard 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+2
+Select the index of an item you want to remove: 
+7
+Your input is out of bound
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+2
+Select the index of an item you want to remove: 
+3
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+Your list has: 4 item(s)
+Bulbasaur Mew Pikachu Charizard 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+2
+Select the index of an item you want to remove: 
+0
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Kadabra
+Enter position to insert item in:
+1
+Item Kadabra inserted in position 1 in the list
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+Your list has: 4 item(s)
+Mew Kadabra Pikachu Charizard 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Select the index of an item you want to get: 
+2
+2. Abra
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Select the index of an item you want to get: 
+0
+0. Mew
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Select the index of an item you want to get: 
+4
+Your input is out of bound
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+4
+List has been cleared
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+List is empty
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+6
+You are now exiting the program.
